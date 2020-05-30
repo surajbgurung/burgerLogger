@@ -1,18 +1,10 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: #e7caa3;
 }
 
-.label {
-  font-weight: bold;
-}
 
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
-}
 
 .form-group {
   margin-bottom: 5px;
@@ -27,7 +19,7 @@ h3 {
   text-align: center;
 }
 body{
-  background: #faebd7;
+  background: #e7caa3;
 
 }
 
